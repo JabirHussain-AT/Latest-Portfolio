@@ -121,7 +121,7 @@ export const PROJECTS = [
         liveLink:
             "https://netflix-clone-with-react-and-tailwind.onrender.com/",
         gitLink:
-            "https://github.com/safeerep/netflix-clone-with-react-and-tailwind",
+            "https://github.com/JabirHussain-AT/Netflix-Clone-Reactjs-tailwind_css.git",
         img: Netflix,
     },
 ];
