@@ -9,8 +9,8 @@ const Banner: React.FC<any> = ({ darkModeOn}: { darkModeOn: boolean}) => {
     <section className="px-10 pb-10 lg:pb-20 lg:px-32 pt-20">
             <div className="lg:grid lg:grid-cols-3">
                 <div className="lg:col-span-2 lg:mt-20">
-                    <h1 className="tracking-wider">Hello!</h1>
-                    <h2 className="text-3xl lg:text-6xl py-5 text-teal-600 font-bold">
+                    <h1 className="tracking-wider">Hello . . . !</h1>
+                    <h2 className="text-2xl lg:text-5xl py-5 text-teal-600 font-bold">
                         I&apos;m {NAME}
                     </h2>
                     <h3 className="text-lg lg:text-2xl py-2">

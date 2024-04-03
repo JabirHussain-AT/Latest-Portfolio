@@ -6,7 +6,7 @@ import { PROJECTS, SHORT_EXPLANATION_ABOUT_PROJECT } from "../constants";
 
 const ProjectSession: React.FC = () => {
     return (
-        <section className="px-10 lg:px-32">
+        <section className="px-10 lg:px-32 font-sans">
             <h3 className="div-h1">Projects</h3>
             <p className="text-md leading-8 text-gray-600 max-w-5xl mx-auto text-center">
                 {SHORT_EXPLANATION_ABOUT_PROJECT}
