@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import SocialMediaIcons from './SocialMediaIcons'
-import profilePhot from "../img/profile.jpg";
+import profilePhot from "../img/profile.png";
 import { EMAIL, NAME, ROLE, SHORT_DESCRIPTION } from '../constants';
 
 const Banner: React.FC<any> = ({ darkModeOn}: { darkModeOn: boolean}) => {

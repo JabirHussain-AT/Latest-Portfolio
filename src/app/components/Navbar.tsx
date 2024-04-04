@@ -4,10 +4,10 @@ import { NAME } from '../constants';
 
 const Navbar: React.FC<any> = ({ darkModeOn, setDarkMode }: { darkModeOn: boolean, setDarkMode: any }) => {
     const handleDownload = () => {
-        const resumeUrl = "/MERN _STACK_DEVELOPER_SAFEER_MON_EP.pdf";
+        const resumeUrl = "/JABIR RESUME.pdf";
         const link = document.createElement("a");
         link.href = resumeUrl;
-        link.download = "MERN _STACK_DEVELOPER_SAFEER_MON_EP.pdf";
+        link.download = "/JABIR RESUME.pdf";
         link.click();
     };
 
